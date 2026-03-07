@@ -3,9 +3,11 @@ I made a custom Esp32 board based on ESP32-S3-WROOM-1 , it has a USB type C and 
 <br><img width="1536" height="960" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/c314a545-3a6c-4ce7-b15f-acc1455ab7cd" />
 
 <br>
+
 ## Overview
 This project is a **compact 2-layer development board** based on the **ESP32-S3-WROOM-1 module**. It exposes **all usable GPIOs**, includes onboard **3.3V regulation**, and USB connectivity for easy programming and prototyping. 
 The goal of this project is to **learn PCB design, microcontroller integration, and embedded programming**, while creating a versatile dev board for IoT, robotics, and electronics experiments.
+
 ## Features
 - ESP32-S3-WROOM-1 module (Wi-Fi + Bluetooth 5.0)
 - 2-layer compact PCB
@@ -14,6 +16,7 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
 - Onboard 3.3V voltage regulation
 - Compact footprint for small projects
 - Educational focus for learning MCU integration and PCB design
+- 
 - ## Bill of Materials (BOM)
 | Qty | Manufacturer Part Number | Description | Supplier | Unit Price (USD) | Total (USD) |
 |----:|--------------------------|-------------|----------|------------------|-------------|

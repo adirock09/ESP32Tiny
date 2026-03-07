@@ -36,15 +36,15 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
 ### 🖨️ PCB & Shipping
 
 - **DigiKey Shipping:** $20.00  
-- **PCB + Stencil + Shipping:** $28.81 (JLCPCB)  
+- **PCB + Stencil + Shipping:** $31.48 (JLCPCB)  
 - **PCB Manufacturer:** JLCPCB — https://jlcpcb.com/
 
   
 ### 💰 Cost Summary
 
 - **Components Total:** $21.72  
-- **Shipping + PCB:** $48.81  
-- **Estimated Total Cost:** **$70.53 USD**
+- **Shipping + PCB:** $51.48 ( JLC + DigiKey) 
+- **Estimated Total Cost:** **$73.3 USD**
 ## Schematic & PCB<br>
 <img width="1091" height="639" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/b84c212c-e917-4304-94dc-2913d334542f" />
 <br>

@@ -51,7 +51,8 @@ The goal of this project is to **learn PCB design, microcontroller integration, 
 <img width="860" height="814" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/398b960e-4f94-468e-8c72-12817385bd3b" />
 
 <br>
-- ## 3d Render<br><br>
+
+ ## 3d Render<br><br>
 <img width="1536" height="960" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/39c3cc1f-3f99-4176-99c9-f4eeea4e77fe" />
 <br>
 <img width="1536" height="960" alt="Screenshot (223)" src="https://github.com/user-attachments/assets/e0bafa6b-0c61-4877-88a7-d5d4cd29d118" />

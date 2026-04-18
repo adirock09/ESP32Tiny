@@ -8708,26 +8708,6 @@
 		)
 		(uuid "111c8f96-0ec2-4775-8568-e50ad572c09c")
 	)
-	(label "USB_D-"
-		(at 133.35 143.51 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "1e21a6f9-8be3-43bb-83da-a6c95a0db6d1")
-	)
-	(label "USB_D+"
-		(at 133.35 148.59 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "717b5b36-902d-4544-922a-54e1b84a5938")
-	)
 	(label "5V"
 		(at 347.98 176.53 0)
 		(effects
@@ -11873,7 +11853,7 @@
 			)
 		)
 		(property "LCSC" "C25105"
-			(at 149.86 147.32 0)
+			(at 154.686 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17963,7 +17943,7 @@
 			)
 		)
 		(property "LCSC" "C25105"
-			(at 149.86 144.78 0)
+			(at 154.686 141.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22772,7 +22752,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 140.97 0)
+			(at 136.652 139.954 0)
 			(effects
 				(font
 					(size 1.27 1.27)

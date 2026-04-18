@@ -39,7 +39,8 @@ This project is a custom-designed breakout board for the ESP32-S3 chip, created 
 
 
 ## Schematic and PCB
-<br><img width="1308" height="666" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/2f82d0d1-27ed-4142-b76e-efc3e1c8e3a4" />
+<br><img width="1296" height="637" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/30667e30-470b-40d6-9c29-e46bd57b9840" />
+
 
 <br><img width="645" height="893" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/f9129dbb-14f1-4fe5-88bf-2d1144729101" />
 

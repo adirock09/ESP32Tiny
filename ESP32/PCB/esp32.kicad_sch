@@ -5890,7 +5890,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 147.32) (xy 162.56 147.32)
+			(xy 153.67 153.67) (xy 154.94 153.67)
 		)
 		(stroke
 			(width 0.1524)
@@ -6740,7 +6740,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 144.78) (xy 162.56 144.78)
+			(xy 161.29 140.97) (xy 162.56 140.97)
 		)
 		(stroke
 			(width 0.1524)
@@ -7130,7 +7130,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 147.32) (xy 146.05 147.32)
+			(xy 144.78 153.67) (xy 146.05 153.67)
 		)
 		(stroke
 			(width 0.1524)
@@ -7230,7 +7230,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 148.59) (xy 144.78 147.32)
+			(xy 144.78 153.67) (xy 144.78 148.59)
 		)
 		(stroke
 			(width 0.1524)
@@ -7660,6 +7660,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 153.67) (xy 154.94 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a33399ce-ec9c-4065-b969-ba21ae531aff")
+	)
+	(wire
+		(pts
 			(xy 210.82 147.32) (xy 205.74 147.32)
 		)
 		(stroke
@@ -7820,6 +7830,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 147.32) (xy 162.56 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "af4e62df-4c1c-4bfc-b080-8befd8839a82")
+	)
+	(wire
+		(pts
 			(xy 406.4 181.61) (xy 406.4 186.69)
 		)
 		(stroke
@@ -7947,6 +7967,16 @@
 			(type solid)
 		)
 		(uuid "be709d6c-db67-42bb-b46f-2d94f9e19eb4")
+	)
+	(wire
+		(pts
+			(xy 161.29 140.97) (xy 161.29 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "bf0e2669-75b5-4896-88cd-250b52795fc0")
 	)
 	(wire
 		(pts
@@ -8287,6 +8317,16 @@
 			(type solid)
 		)
 		(uuid "dda6031b-3eff-4a28-8f23-8fb7c7851bcc")
+	)
+	(wire
+		(pts
+			(xy 161.29 144.78) (xy 153.67 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ddd2e403-c2b8-4be0-887e-7b71295c2697")
 	)
 	(wire
 		(pts
@@ -8874,7 +8914,7 @@
 	)
 	(global_label "USB_D-"
 		(shape input)
-		(at 162.56 144.78 0)
+		(at 162.56 140.97 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8884,7 +8924,7 @@
 		)
 		(uuid "16b127fc-d02e-4905-ba81-6e669479dd27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.1652 144.78 0)
+			(at 173.1652 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11770,7 +11810,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 149.86 147.32 90)
+		(at 149.86 153.67 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11778,7 +11818,7 @@
 		(dnp no)
 		(uuid "091ddd7a-b1e3-4d39-8cf0-84a0172cc88f")
 		(property "Reference" "R18"
-			(at 150.114 149.352 90)
+			(at 150.114 155.956 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11786,7 +11826,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 149.86 147.32 90)
+			(at 149.86 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11794,7 +11834,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 149.86 149.098 90)
+			(at 149.86 155.448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11803,7 +11843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11812,7 +11852,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11820,7 +11860,7 @@
 			)
 		)
 		(property "MNF PART NUMBER" "C25105"
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11829,7 +11869,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11837,7 +11877,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11845,7 +11885,7 @@
 			)
 		)
 		(property "PARTNO" ""
-			(at 149.86 147.32 0)
+			(at 149.86 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11853,7 +11893,7 @@
 			)
 		)
 		(property "LCSC" "C25105"
-			(at 154.686 150.876 0)
+			(at 145.796 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17943,7 +17983,7 @@
 			)
 		)
 		(property "LCSC" "C25105"
-			(at 154.686 141.478 0)
+			(at 146.304 139.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22752,7 +22792,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 136.652 139.954 0)
+			(at 137.16 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
